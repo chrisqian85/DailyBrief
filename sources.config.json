@@ -44,7 +44,7 @@
     "url": "https://juejin.cn/rss",
     "category": "tech",
     "subcategory": "cn-community",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh"
     ]
@@ -81,7 +81,7 @@
     "category": "tech",
     "subcategory": "ai-news",
     "lang": "zh",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh"
     ]
@@ -212,7 +212,7 @@
     "url": "https://www.solidot.org/index.rss",
     "category": "tech",
     "subcategory": "overseas-news",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh",
       "en"
@@ -405,7 +405,7 @@
     "url": "https://www.ftchinese.com/rss/news",
     "category": "finance",
     "subcategory": "news",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh"
     ]
@@ -534,7 +534,7 @@
     "url": "https://rsshub.app/wallstreetcn/news/global",
     "category": "finance",
     "subcategory": "news",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh"
     ]
