@@ -1,123 +1,143 @@
 {
-  "hero_headline": "乌克兰无人机打击圣彼得堡石油设施",
-  "daily_overview": "今日全球地缘风险加剧，乌克兰对俄罗斯圣彼得堡附近石油设施发动大规模无人机袭击，同时伊朗百万民众为已故最高领袖哈梅内伊举行葬礼。技术领域，OpenAI公布ChatGPT全球采用持续增长，Google DeepMind与A24开启创意研究合作，国内光象科技获数亿元天使轮融资布局物理原生模型，火星岩石发现大量未知来源有机碳。财经方面，美国清洁能源价格因AI需求激增及补贴到期面临上涨，东部热浪致电价飙升并造成超80万户停电，委内瑞拉地震死亡人数接近3000，德国经济数据即将揭示伊朗战争影响。时政方面，德国右翼政党AfD主席魏德尔成功连任并提出领导国家主张，乌克兰扩大打击俄罗斯能源基础设施。",
+  "hero_headline": "伊朗前最高领袖葬礼百万人参加，全球关注",
+  "daily_overview": "今日焦点：伊朗为前最高领袖举行葬礼，数百万人在高温中送别；乌克兰无人机深入俄罗斯纵深，袭击圣彼得堡石油设施。科技方面，OpenAI公布ChatGPT全球采用数据，火星岩石发现大量有机碳；中国团队创新性地将JEPA模型用于细胞研究。财经方面，委内瑞拉地震死亡近三千，美国东部热浪致电价飙升、超80万户断电，清洁能源价格因AI需求看涨。",
   "tech_briefs": [
     {
-      "title": "ChatGPT全球采用持续增长，用户探索更多功能",
+      "title": "ChatGPT全球采用持续扩张",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "source": "OpenAI News",
-      "summary": "OpenAI最新数据显示ChatGPT在全球范围内采用率持续增长，用户使用频率和探索的功能范围均有所增加，推动了跨地区和语言的增长。",
+      "summary": "OpenAI官方数据显示，ChatGPT全球采用率持续增长，用户使用频率和场景不断扩大，跨境和多语言增长显著。",
       "importance": 9
     },
     {
-      "title": "Google DeepMind与A24达成首次研究合作",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "source": "DeepMind Blog",
-      "summary": "Google DeepMind与电影公司A24宣布首次研究合作，探索AI在创意领域的应用，具体方向尚未披露。",
+      "title": "火星岩石发现大量碳，来源成谜",
+      "url": "https://www.solidot.org/story?sid=84757",
+      "source": "Solidot 奇客",
+      "summary": "毅力号在火星河道岩石表面发现复杂大分子碳，为至今最浅的有机物发现；来源可能为生物或非生物过程，待进一步研究。",
       "importance": 8
     },
     {
-      "title": "光象科技获数亿元天使轮融资，布局物理原生基座模型",
-      "url": "https://www.qbitai.com/2026/07/442958.html",
-      "source": "量子位",
-      "summary": "光象科技累计完成数亿元天使轮融资，资金将用于研发物理原生基座模型，旨在构建更贴近物理世界的AI基础架构。",
+      "title": "DeepMind与A24宣布电影AI研究合作",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "source": "DeepMind Blog",
+      "summary": "Google DeepMind与电影公司A24达成首次研究合作，探索AI在创意产业中的应用。",
       "importance": 7
     },
     {
-      "title": "毅力号在火星表面发现大量有机碳，来源成谜",
-      "url": "https://www.solidot.org/story?sid=84757",
-      "source": "Solidot 奇客",
-      "summary": "NASA毅力号在火星河道附近的岩石表面发现复杂大分子碳，这是迄今发现最浅的有机物，其来源可能是生物或非生物过程。",
+      "title": "光象科技获数亿元天使轮融资，布局物理原生模型",
+      "url": "https://www.qbitai.com/2026/07/442958.html",
+      "source": "量子位",
+      "summary": "光象科技累计完成数亿元天使轮融资，致力于研发物理原生基座模型，推动AI与物理世界融合。",
       "importance": 7
+    },
+    {
+      "title": "中国团队将JEPA世界模型应用于细胞研究",
+      "url": "https://www.qbitai.com/2026/07/442746.html",
+      "source": "量子位",
+      "summary": "中国科研团队借鉴LeCun的JEPA架构，将其应用于细胞内部建模，探索从LLM到细胞世界模型的新路径。",
+      "importance": 8
     }
   ],
   "finance_briefs": [
     {
-      "title": "美国清洁能源价格因AI需求激增及补贴削减将飙升",
-      "url": "https://www.ft.com/content/911ad6e1-154d-4d10-a7dc-2bd0fd6fbdc2",
-      "source": "Financial Times",
-      "summary": "分析称美国清洁电力购买协议价格预计大幅上涨，原因是AI相关电力需求增加与拜登时期补贴政策到期。",
-      "importance": 8
-    },
-    {
-      "title": "美国东部热浪导致电价飙升，80万户停电",
-      "url": "https://www.ft.com/content/76de196b-175f-4f5b-b10c-cc17bb2948d1",
-      "source": "Financial Times",
-      "summary": "美国东部持续热浪，气温接近40°C，导致超过80万家庭断电，电网承压，电价上涨。",
-      "importance": 8
-    },
-    {
-      "title": "委内瑞拉地震官方死亡人数升至近3000人",
+      "title": "委内瑞拉地震官方死亡人数升至近3000",
       "url": "https://www.bloomberg.com/news/articles/2026-07-04/venezuela-quake-death-toll-climbs-to-nearly-3-000",
       "source": "Bloomberg Markets",
-      "summary": "委内瑞拉上周双地震的官方死亡统计已升至近3000人，救援和灾后重建工作仍在进行。",
+      "summary": "委内瑞拉上周双震的官方死亡人数接近三千，救援工作持续进行。",
+      "importance": 9
+    },
+    {
+      "title": "美国清洁能源价格因AI需求与补贴削减将大幅上涨",
+      "url": "https://www.ft.com/content/911ad6e1-154d-4d10-a7dc-2bd0fd6fbdc2",
+      "source": "Financial Times",
+      "summary": "AI需求激增叠加拜登时代补贴到期，预计美国清洁能源购电协议价格将显著上升。",
+      "importance": 8
+    },
+    {
+      "title": "美国热浪致电价飙升，逾80万户断电",
+      "url": "https://www.ft.com/content/76de196b-175f-4f5b-b10c-cc17bb2948d1",
+      "source": "Financial Times",
+      "summary": "美国东部「热穹顶」导致气温逼近40°C，电力电网承压，超80万家庭停电，电价暴涨。",
+      "importance": 8
+    },
+    {
+      "title": "德国经济数据将检验最新增长刺激措施",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/germany-s-second-chance-for-growth-rebound-starts-now",
+      "source": "Bloomberg Markets",
+      "summary": "下周德国经济数据将揭示伊朗战争影响，为政府最新刺激措施提供背景。",
       "importance": 7
     },
     {
-      "title": "德国经济反弹机会来临，本周数据将揭示伊朗战争影响",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-04/germany-s-second-chance-for-growth-rebound-starts-now",
-      "source": "Bloomberg Markets",
-      "summary": "德国未来一周公布的数据将显示伊朗战争对经济的累积影响，为政府新一轮刺激经济措施奠定基础。",
-      "importance": 6
+      "title": "英国农场受热浪冲击，加速采用再生农业",
+      "url": "https://www.ft.com/content/96f06629-225a-4408-b0bb-d4869bb4c3bc",
+      "source": "Financial Times",
+      "summary": "高温促使英国农民减少化学投入和深耕，转向改善土壤保水能力的再生农业方法。",
+      "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "伊朗民众冒高温参加哈梅内伊葬礼第二天",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss",
-      "source": "Al Jazeera",
-      "summary": "伊朗为已故最高领袖哈梅内伊举行第二天葬礼，大量民众不顾高温参加悼念活动。",
-      "importance": 9
-    },
-    {
-      "title": "乌克兰无人机打击圣彼得堡附近石油终端",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "title": "伊朗前最高领袖葬礼迎来第二天，百万人参加",
+      "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "乌克兰总统泽连斯基证实乌方对圣彼得堡附近石油设施发动大规模无人机袭击，旨在削弱俄罗斯战争收入（多家报道）。",
+      "summary": "伊朗为前最高领袖哈梅内伊举行葬礼，预计多达2000万人参加；仪式被视为激烈政治时刻。（多家报道）",
       "importance": 9
     },
     {
-      "title": "德国选项党主席魏德尔成功连任，提出领导德国主张",
+      "title": "乌克兰无人机袭击圣彼得堡石油设施",
+      "url": "https://www.dw.com/zh/乌克兰打击圣彼得堡附近石油设施/a-77832624?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "乌克兰总统泽连斯基证实对圣彼得堡附近石油设施发动无人机袭击，旨在削弱俄罗斯能源收入。（多家报道）",
+      "importance": 8
+    },
+    {
+      "title": "魏德尔连任AfD主席，称要成为「新的人民党」",
       "url": "https://www.dw.com/zh/魏德尔成功连任-称afd要成为-新的人民党-领导德国/a-77833050?maca=chi-rss-chi-all-1127-rdf",
       "source": "DW 中文",
-      "summary": "德国选项党（AfD）主席魏德尔在党代会上成功连任，声称该党将成为「新的人民党」并领导德国，目前AfD民调支持率第一。",
-      "importance": 8
+      "summary": "德国选项党主席魏德尔在党代会上成功连任，提出领导德国的主张，并计划放宽入党限制。",
+      "importance": 7
     }
   ],
-  "editor_note": "今日全球地缘风险与技术突破交织，AI驱动能源需求与极端气候共同推升电力成本，多事之秋需警惕多重不确定性。",
+  "editor_note": "伊朗权力交接与俄乌冲突升级交织，全球地缘格局面临新考验。科技与能源的交互影响日益显著，需关注AI对清洁能源需求的长期推动。",
   "keywords": [
-    "乌克兰",
-    "伊朗",
-    "哈梅内伊",
+    "伊朗葬礼",
+    "乌克兰战争",
+    "圣彼得堡石油设施",
     "ChatGPT",
-    "AI",
-    "清洁能源",
-    "热浪",
-    "委内瑞拉地震"
+    "火星碳",
+    "委内瑞拉地震",
+    "美国热浪",
+    "魏德尔连任"
   ],
   "trading": {
-    "market_overview": "综合技术面看，各资产类别分化明显。美股方面，Apple（AAPL）强势站上所有均线，RSI 60.3且MACD金叉，但Meta、Tesla等仍处于空头排列，纳斯达克QQQ回落至SMA20下方，RSI 48.1，整体科技股情绪摇摆。加密市场受恐慌情绪主导（恐慌贪婪指数22，极度恐慌），总市值2.28T，比特币虽RSI 50.3回到中性但距SMA200（74827）仍有差距，以太坊RSI 57.6但均线空头排列，短期内反弹动能有限。中概股整体承压，阿里巴巴RSI 23.8超卖、京东与腾讯均呈空头排列，仅拼多多近5日反弹12.4%但股价仍在均线下方。商品外汇方面，黄金MACD金叉但SMA50与SMA200形成死叉，原油RSI 28.9超卖但未见止跌信号；美元指数DXY多头排列（高于所有均线）但MACD死叉，美元/人民币接近52周低点呈空头排列。VIX降至15.81且MACD死叉，波动率溢价回落。",
+    "market_overview": "当前市场技术面呈现显著分化。美股方面，S&P 500 ETF（SPY）仍维持多头排列，价格站上所有主要均线，RSI 53.5 中性，但 MACD 快线已跌破信号线，动能略有衰减；Nasdaq 100 ETF（QQQ）则明显走弱，价格跌破 SMA20，MACD 柱状负值扩大，短期承压。个股中，苹果（AAPL）异军突起，日内大涨 4.84% 并触发 MACD 金叉，多头排列强势；而特斯拉（TSLA）和 Meta（META）分别重挫 7.49% 和 4.90%，均线空头排列，技术面偏弱。加密市场受恐慌情绪（恐慌贪婪指数 22，极度恐慌）笼罩，总市值 2.27T 亿美元。比特币（BTC-USD）和以太坊（ETH-USD）虽出现 MACD 金叉，但价格仍低于 SMA50 与 SMA200，空头结构未改；Solana（SOL-USD）相对强势，站上 SMA20 和 SMA50，RSI 64.4 偏强。中概股整体低迷，阿里巴巴（BABA）RSI 跌至 23.8 超卖区，但均线空头排列明确，下行压力未减；拼多多（PDD）和京东（JD）同样处于空头趋势。商品外汇方面，黄金期货（GC=F）日内上涨 1.81%，但 MACD 金叉与 SMA50/SMA200 死叉并存，方向不明；WTI 原油（CL=F）RSI 28.9 超卖，但均线空头压制；美元指数（DXY）维持多头排列，但 MACD 接近死叉，高位震荡偏弱。整体来看，各资产类别内部信号冲突，市场处于关键变盘节点。",
     "watchlist": [
       {
         "symbol": "AAPL",
-        "display_name": "Apple",
+        "display_name": "苹果 (AAPL)",
         "stance": "偏上行",
-        "rationale": "当前价格308.63高于SMA20（294.8）、SMA50（293.52）及SMA200（270.69），呈多头排列；RSI 60.3位于正常偏强区域；MACD金叉（MACD -0.686 > 信号-0.9471）；近5日上涨12.17%，距52周高点仅-2.76%，技术动能充沛。"
+        "rationale": "价格 $308.63，日内涨 4.84%，五日内涨 12.17%，RSI 60.3 处于中性偏强区域；MACD 快线上穿信号线形成金叉（-0.686 > -0.9471），柱状图转正；价格高于 SMA20（294.8）、SMA50（293.52）、SMA200（270.69），均线多头排列；距 52 周高点仅 -2.76%，上行动能显著，技术信号偏上行。"
       },
       {
         "symbol": "BABA",
         "display_name": "阿里巴巴 (BABA)",
         "stance": "偏下行",
-        "rationale": "当前价格96.14远低于SMA20（107.43）、SMA50（122.9）和SMA200（147.08），空头排列显著；RSI 23.8进入超卖区间；MACD绿柱加深（MACD -8.3141 < 信号-7.8115）；距52周高点跌幅达-50.1%，近1日下跌1.89%，整体空头压力持续。"
+        "rationale": "价格 $96.14，日内下跌 1.89%，5 日涨幅微弱；RSI 14 仅 23.8，处于超卖区；价格远低于 SMA20（107.43）、SMA50（122.90）、SMA200（147.08），均线空头排列明确；MACD 快线 -8.3141 低于信号线 -7.8115，柱状负值，下行动量延续。虽然 RSI 超卖可能暗示技术性反弹，但空头趋势主导，技术形态偏下行。"
       },
       {
-        "symbol": "NVDA",
-        "display_name": "Nvidia",
+        "symbol": "BTC-USD",
+        "display_name": "比特币 (BTC-USD)",
         "stance": "中性",
-        "rationale": "当前价格194.83介于SMA20（203.48）与SMA200（191.03）之间，但低于SMA50（209.8）；RSI 41.2偏弱但未达超卖；MACD绿柱（-4.0876 < 信号-3.0872）且趋势评级为neutral，无明确金叉或死叉信号；近5日微跌0.46%，多空力量暂均衡。"
+        "rationale": "价格 $63085.09，日内微涨 0.86%，5 日涨 4.90%，RSI 49.9 中性；MACD 快线 -1494.12 上穿信号线 -2028.81 形成金叉，动能有转正迹象；但价格仍低于 SMA50（67045.05）及 SMA200（74826.52），均线空头排列；Trend 标签为 bearish。短期金叉与中期空头结构并存，方向待抉择，技术面中性。"
+      },
+      {
+        "symbol": "TSLA",
+        "display_name": "特斯拉 (TSLA)",
+        "stance": "偏下行",
+        "rationale": "价格 $393.45，日内大跌 7.49%，尽管 5 日涨 4.89% 但日内重挫凸显弱势；RSI 46.8 逼近超卖但尚未；价格低于所有均线（SMA20 399.16、SMA50 406.42、SMA200 418.61），空头排列清晰；MACD 快线 -1.6349 上穿信号线 -3.2862 形成金叉，但柱状图仍为负值，且 Trend 为 bearish。整体空头压力较大，技术面偏下行。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，本报告仅基于公开行情数据的技术指标解读参考，不构成任何投资建议。使用者应独立判断，注意市场风险。",
+    "risk_caveat": "本报告仅基于公开行情数据进行技术指标解读，不构成任何投资建议。过去走势不代表未来表现，市场存在不确定性，投资者应自行判断风险。仅供技术指标解读参考。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -365,18 +385,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 63220.22,
-        "pct1Day": 1.0808688730438463,
-        "pct5Day": 5.1245829199258885,
-        "pct52WeekHigh": -49.90397238246195,
-        "pct52WeekLow": 9.476477410398868,
-        "sma20": 62149.98125,
-        "sma50": 67047.755,
-        "sma200": 74827.19759765625,
-        "rsi14": 50.34900421667621,
-        "macd": -1483.3367683284378,
-        "macdSignal": -2026.6526835385853,
-        "macdHistogram": 543.3159152101475,
+        "currentPrice": 63085.09,
+        "pct1Day": 0.8648136645865697,
+        "pct5Day": 4.89988447866817,
+        "pct52WeekHigh": -50.01105008975178,
+        "pct52WeekLow": 9.242477016340326,
+        "sma20": 62143.2248046875,
+        "sma50": 67045.052421875,
+        "sma200": 74826.521953125,
+        "rsi14": 49.867771838106385,
+        "macd": -1494.1162822173283,
+        "macdSignal": -2028.8085863163633,
+        "macdHistogram": 534.692304099035,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -397,18 +417,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1785.8,
-        "pct1Day": 1.6670089324774509,
-        "pct5Day": 10.905077369798324,
-        "pct52WeekHigh": -63.950418805373644,
-        "pct52WeekLow": 18.539212961490957,
-        "sma20": 1676.1067993164063,
-        "sma50": 1816.4250341796876,
-        "sma200": 2268.110076904297,
-        "rsi14": 57.605216709736595,
-        "macd": -32.02702368769428,
-        "macdSignal": -60.667658322104316,
-        "macdHistogram": 28.640634634410034,
+        "currentPrice": 1778.57,
+        "pct1Day": 1.2553993039738032,
+        "pct5Day": 10.456066445067872,
+        "pct52WeekHigh": -64.0963693440886,
+        "pct52WeekLow": 18.05929443214188,
+        "sma20": 1675.745294189453,
+        "sma50": 1816.2804321289063,
+        "sma200": 2268.0739263916016,
+        "rsi14": 57.03105199331581,
+        "macd": -32.603784004200634,
+        "macdSignal": -60.78301038540559,
+        "macdHistogram": 28.179226381204955,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -424,18 +444,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 81.86,
-        "pct1Day": -0.5105244398222215,
-        "pct5Day": 9.224120416608091,
-        "pct52WeekHigh": -67.6710902693773,
-        "pct52WeekLow": 35.49677959278797,
-        "sma20": 73.27836723327637,
-        "sma50": 75.42002273559571,
-        "sma200": 93.54996112823487,
-        "rsi14": 64.7056449584428,
-        "macd": 1.6507367580231147,
-        "macdSignal": -0.030811395398873398,
-        "macdHistogram": 1.681548153421988,
+        "currentPrice": 81.71,
+        "pct1Day": -0.6928286339833164,
+        "pct5Day": 9.02397849060648,
+        "pct52WeekHigh": -67.73032965930638,
+        "pct52WeekLow": 35.24849573084174,
+        "sma20": 73.27086715698242,
+        "sma50": 75.41702270507812,
+        "sma200": 93.54921112060546,
+        "rsi14": 64.35079130990562,
+        "macd": 1.6387708243347703,
+        "macdSignal": -0.033204582136542315,
+        "macdHistogram": 1.6719754064713126,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -691,23 +711,27 @@
         "currency": "USD",
         "exchangeName": "CGI",
         "currentPrice": 4.4849997,
-        "pct1Day": 0,
-        "pct5Day": 0,
+        "pct1Day": 2.1174748960707923,
+        "pct5Day": 0.7638617107429528,
         "pct52WeekHigh": -10.24615369221532,
         "pct52WeekLow": 0,
-        "sma20": null,
-        "sma50": null,
-        "sma200": null,
-        "rsi14": null,
-        "macd": null,
-        "macdSignal": null,
-        "macdHistogram": null,
-        "trend": "neutral",
+        "sma20": 4.47189998626709,
+        "sma50": 4.443139972686768,
+        "sma200": 4.222664989233017,
+        "rsi14": 40.14275537714815,
+        "macd": -0.013426027531771467,
+        "macdSignal": 0.0026814325726170797,
+        "macdHistogram": -0.016107460104388547,
+        "trend": "bullish",
         "rsiState": "normal",
         "signals": [
           {
             "type": "near-52w-low",
             "label": "接近 52 周低"
+          },
+          {
+            "type": "above-sma50-sma200",
+            "label": "多头排列"
           }
         ]
       },
@@ -755,13 +779,13 @@
       "timestamp": "2026-07-04T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2276406902202.257,
-      "total24hVolumeUsd": 52317104156.64309,
-      "marketCapChangePct24h": 1.0267161402497502,
-      "btcDominance": 55.684625527020536,
-      "ethDominance": 9.463069569401416,
+      "totalMarketCapUsd": 2270093560847.035,
+      "total24hVolumeUsd": 52592109646.55288,
+      "marketCapChangePct24h": 0.7684515192801696,
+      "btcDominance": 55.682300811491245,
+      "ethDominance": 9.445385096176977,
       "activeCryptocurrencies": 17362
     },
-    "generated_at": "2026-07-04T22:10:07.825Z"
+    "generated_at": "2026-07-04T23:37:47.003Z"
   }
 }
